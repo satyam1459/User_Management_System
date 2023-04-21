@@ -22,4 +22,4 @@ Our project basically maintains the upcoming user information which includes -
 * Address
 * Phone Number
 
-You can create a user information, read, read by specific id, update userName of specific userId, delete a user by their userId by api calls.
+You can create a user information, read a user information, read by specific id, update userName of specific userId, delete a user by their userId by api calls.
